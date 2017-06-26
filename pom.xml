@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>cn.joylau.code</groupId>
-	<artifactId>joylau-spring-boot-parent</artifactId>
+	<artifactId>joylau-spring-boot-device-parent</artifactId>
 	<version>1.0.RELEASE</version>
 	<packaging>pom</packaging>
 
